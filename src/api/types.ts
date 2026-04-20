@@ -3,6 +3,7 @@ export interface MetaJson {
   name: string;
   author: string;
   description: string;
+  extended_description: string;
   category: string | string[];
   thumbnail: string;
   zips: Record<string, string>;
