@@ -15,3 +15,4 @@ export interface RegistryResponse {
   count: number;
   packages: MetaJson[];
 }
+
